@@ -1,4 +1,4 @@
-'use strict';
+'use strict';d
 /** @type {!Array} */
 var _0x2a1c = ["#MM#", "#M#", "#DDDD#", "#DDD#", "#D#", "#th#", "getHours", "toUpperCase", "getMinutes", "#hhhh#", "#hh#", "#h#", "#mm#", "#m#", "#ss#", "#ampm#", "#AMPM#", "forEach", "$2/$1/20$3", "getTime", "push", "apply", "splice", "split", "shift", "#mon input[alt='", "attr", "alt", ":checked", "val", "#DD#/#MM#/#YYYY# #DDD#", "toString", "substr", "length", "#ngay tr[alt='", "'] td[alt='", "'] a", "html", "'] div", "append", "C\u1ea3nh b\u00e1o tr\u00f9ng l\u1ecbch! K\u00e9o xu\u1ed1ng l\u1ecbch \u0111\u1ec3 xem chi ti\u1ebft c\u00e1c ti\u1ebft h\u1ecdc b\u1ecb tr\u00f9ng.", 
 "#mon tr[alt='", "indexOf", "removeClass", "#mon select[alt='", "div", "prototype", "customFormat", "getFullYear", "slice", "January", "February", "April", "May", "August", "September", "October", "November", "December", "substring", "getDate", "Ch\u1ee7 nh\u1eadt", "Th\u1ee9 2", "Th\u1ee9 3", "Th\u1ee9 6", "#YYYY#", "replace", "#YY#", "#MMMM#"];
